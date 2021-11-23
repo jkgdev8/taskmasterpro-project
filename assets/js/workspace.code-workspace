@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/5.3"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
